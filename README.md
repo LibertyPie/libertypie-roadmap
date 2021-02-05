@@ -1,4 +1,4 @@
-# libertypie-roadmap
+# LibertyPie Roadmap
 
 P2P Exchange
 ------------------------------
