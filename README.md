@@ -8,3 +8,24 @@ P2P Exchange
 - [ ] Chat
 - [ ] Sia Integration
 - [x] Payment Types
+
+
+
+Swap Aggregator
+--------------------------------
+- [ ] Fork Existing
+- [ ] Limit Order
+- [ ] Liquidity Pool
+
+Margin Trading
+-------------------------------
+- [ ] Margin Pool
+- [ ] Exchange Integration
+
+
+Social Trading
+-------------------------------
+- [ ] Exchange Integration
+- [ ] Trade data storage
+- [ ] Trader Pool Contract
+- [ ] Portfolio Contract
